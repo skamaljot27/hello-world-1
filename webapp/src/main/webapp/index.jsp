@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h3>Changes</h3>
 CHnages has been detected and new conatiner is created with new image fi;le on the docker server
-
+<duplicate conatiners and images have been deleted and new ones created>
